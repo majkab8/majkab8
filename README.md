@@ -36,7 +36,7 @@ I'm looking for a junior role in ML, AI or Python development.</p>
 
 <h2 align="center">Featured Projects</h2>
 
-<h3 align="center">🍽️ <a href="https://github.com/majkab8/Conaobiad">Obiadowo</a> · <a href="https://obiadowo.vercel.app">live demo</a></h3>
+<h3 align="center">🍽️ <a href="https://github.com/majkab8/Conaobiad">Obiadowo</a></h3>
 <p align="center">
   AI recipe assistant for Polish cuisine. Built as a <b>RAG</b> pipeline over ~200 recipes stored in Pinecone.<br>
   The steps are written by <b>my own fine-tuned Polish LLM</b>. I distilled Bielik-11B into Bielik-1.5B with <b>LoRA</b><br>
