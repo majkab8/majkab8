@@ -16,6 +16,8 @@
   to shipping it with an API and a frontend.</i>
 </p>
 
+<br>
+
 <p align="center">🔍 <b>Open to work.</b><br>
 I'm looking for a junior role in ML, AI or Python development.</p>
 
