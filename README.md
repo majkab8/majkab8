@@ -4,7 +4,7 @@
 </p>
 
 
-<img align="left" width="380" src="maja_in_code.png" alt="Python dictionary describing Maja">
+<img align="left" width="425" src="myself.png" alt="Python dictionary describing Maja">
 
 <br><br><br>
 
