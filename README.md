@@ -4,12 +4,23 @@
 </p>
 
 
-<p align="center">
-  <i>Junior Python / Machine Learning developer from Poland.<br>
-  I build end-to-end projects, from training the model to shipping it with an API and a frontend.</i>
+<img align="left" width="380" src="carbon.png" alt="Python dictionary describing Maja">
+
+<br><br><br>
+
+<p>
+  <i>Junior Python / Machine Learning developer<br>
+  from Poland.<br>
+  I build end-to-end projects,<br>
+  from training the model<br>
+  to shipping it with an API and a frontend.</i>
 </p>
 
-<p align="center">🔍 <b>Open to work.</b> I'm looking for a junior role in ML, AI or Python development.</p>
+<p align="center">🔍 <b>Open to work.</b><br>
+I'm looking for a junior role in ML, AI or Python development.</p>
+
+<br clear="left">
+
 
 <h2 align="center">Tech stack</h2>
 
